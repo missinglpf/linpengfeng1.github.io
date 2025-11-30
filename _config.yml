@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : # "en-US"
 site_theme               : # "default" # Currently available options are "default", "air"
-title                    : "LPF"
+title                    : "Home"
 title_separator          : # "-"
 name                     : # &name "Pengfeng LIN"
 description              : # &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -286,7 +286,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      
+
   # _talks
   - scope:
       path: ""

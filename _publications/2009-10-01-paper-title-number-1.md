@@ -1,7 +1,7 @@
 ---
 # title: "LPF paper 1"
 collection: publications
-ategory: manuscripts
+category: manuscripts
 
 
 ---

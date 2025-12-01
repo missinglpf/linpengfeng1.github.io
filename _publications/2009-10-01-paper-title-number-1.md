@@ -1,5 +1,5 @@
 ---
-# title: "LPF paper 1"
+title: "LPF paper 1"
 collection: publications
 category: manuscripts
 

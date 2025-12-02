@@ -10,7 +10,7 @@ excerpt: 'Bus voltage control is an essential issue in a DC microgrid (MG). In t
 
 venue: 'IEEE Transactions on Smart Grid'
 
-date: 2025-09-09
+date: 2019-09-01
 
 paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/20190901-A_Decentralized_Composite_Controller_for_Unified_Voltage_Control_With_Global_System_Large-Signal_Stability_in_DC_Microgrids.pdf'
 

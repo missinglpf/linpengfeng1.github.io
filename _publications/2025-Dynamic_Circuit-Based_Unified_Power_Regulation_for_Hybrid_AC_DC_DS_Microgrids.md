@@ -14,6 +14,5 @@ venue: 'IEEE Transactions on Industrial Electronics'
 
 paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/2025-Dynamic_Circuit-Based_Unified_Power_Regulation_for_Hybrid_AC_DC_DS_Microgrids.pdf'
 
-
 ---
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 
-Pengfeng Lin received the B.S. and M.S. degree in electrical engineering from Southwest Jiao Tong University, China, in 2013 and 2015 respectively, and the Ph.D. degree in Interdisciplinary Graduate Programme from Nanyang Technological University, Singapore, in 2020. He was with Energy Research Institute @ NTU as a Research Fellow and with Électricité de France (EDF) as a Smart Grid Energy Expert / Research Scientist. He is in the global top 2% of Scientists released by Standard University. He is currently an Assistant Professor at Shanghai Jiao Tong University，the secretary of IEC SC8A WG7, and the standards chair of IEEE IAS IPCC, the vice president of IEEE P3359 standard working group. His research interests include power system stability / reliability analyses, smart grid cyber-physical security, and artificial intelligence analytics.
- 
+About me
+======
+Pengfeng LIN received the B.S. and M.S. degree in electrical engineering from Southwest Jiao Tong University, China, in 2013 and 2015 respectively, and the Ph.D. degree in Interdisciplinary Graduate Programme from Nanyang Technological University, Singapore, in 2020. He was with Energy Research Institute @ NTU as a Research Fellow and with Électricité de France (EDF) as a Smart Grid Energy Expert / Research Scientist. He is in the global top 2% of Scientists released by Standard University. He is currently an Assistant Professor at Shanghai Jiao Tong University，the secretary of IEC SC8A WG7, and the standards chair of IEEE IAS IPCC, the vice president of IEEE P3359 standard working group. His research interests include power system stability / reliability analyses, smart grid cyber-physical security, and artificial intelligence analytics.
+
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! 
 

@@ -10,7 +10,7 @@ excerpt: 'Power regulation in hybrid ac/dc microgrids (MGs) is a critical concer
 
 venue: 'IEEE Transactions on Industrial Electronics'
 
-paperurl: 'https://linpengfeng1.github.io/files/Dynamic_Circuit-Based_Unified_Power_Regulation_for_Hybrid_AC_DC_DS_Microgrids_A_Comprehensive_Approach_to_Static_and_Transient_Control.pdf'
+paperurl: 'https://github.com/missinglpf/linpengfeng1.github.io/files/Dynamic_Circuit-Based_Unified_Power_Regulation_for_Hybrid_AC_DC_DS_Microgrids_A_Comprehensive_Approach_to_Static_and_Transient_Control.pdf'
 
 
 ---

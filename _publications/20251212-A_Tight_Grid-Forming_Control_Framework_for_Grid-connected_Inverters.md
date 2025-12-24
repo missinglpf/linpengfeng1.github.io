@@ -12,8 +12,9 @@ venue: 'IEEE Transactions on Power Electronics'
 
 date: 2025-12-12
 
-paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/files\20251212-A_Tight_Grid-Forming_Control_Framework_for_Grid-connected_Inverters_under_Large_Grid_Frequency_Drops_with_Wide_Range_of_SCR_and_X_R.pdf'
+paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/files/20251212-A_Tight_Grid-Forming_Control_Framework_for_Grid-connected_Inverters_under_Large_Grid_Frequency_Drops_with_Wide_Range_of_SCR_and_X_R.pdf'
 
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+
 
 ---

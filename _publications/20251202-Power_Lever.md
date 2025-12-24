@@ -14,6 +14,6 @@ date: 2025-12-02
 
 paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/20251202-Power_Lever.pdf'
 
-
+# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 ---
 

@@ -14,6 +14,7 @@ date: 2019-05-01
 
 paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/20190501-A_Distributed_Control_Architecture_for_Global_System_Economic_Operation_in_Autonomous_Hybrid_ACDC_Microgrids.pdf'
 
+# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 
 ---
 

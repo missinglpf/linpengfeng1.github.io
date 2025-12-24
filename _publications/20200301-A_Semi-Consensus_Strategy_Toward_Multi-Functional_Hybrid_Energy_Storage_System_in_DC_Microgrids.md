@@ -14,6 +14,6 @@ date: 2020-03-01
 
 paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/20200301-A_Semi-Consensus_Strategy_Toward_Multi-Functional_Hybrid_Energy_Storage_System_in_DC_Microgrids.pdf'
 
-
+# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 ---
 

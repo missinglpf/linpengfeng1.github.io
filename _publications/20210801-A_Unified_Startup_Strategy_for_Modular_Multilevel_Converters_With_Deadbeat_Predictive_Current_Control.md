@@ -14,6 +14,7 @@ date: 2021-08-01
 
 paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/20210801-A_Unified_Startup_Strategy_for_Modular_Multilevel_Converters_With_Deadbeat_Predictive_Current_Control.pdf'
 
+# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 
 ---
 

@@ -14,6 +14,6 @@ date: 2019-09-01
 
 paperurl: 'https://missinglpf.github.io/linpengfeng1.github.io/files/20190901-A_Distributed_Power_Management_Strategy_for_Multi_Paralleled_Bidirectional_Interlinking_Converters_in_Hybrid_ACDC_Microgrids.pdf'
 
-
+# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 ---
 
